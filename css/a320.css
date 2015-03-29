@@ -1,7 +1,7 @@
 .version.a320 /* version checker */
 {
-	color: #000005;
-	background-color: #BE89AC;
+	color: #000012;
+	background-color: #E9C8FD;
 }
 
 @-ms-viewport
@@ -84,7 +84,7 @@
 #u134
 {
 	z-index: 8;
-	width: 334px;
+	width: 335px;
 	min-height: 295px;
 	border-style: none;
 	border-color: transparent;
