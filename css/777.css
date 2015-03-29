@@ -1,32 +1,32 @@
 .version._777 /* version checker */
 {
-	color: #00001B;
-	background-color: #E373F5;
+	color: #00000F;
+	background-color: #B92B97;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 350px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 350px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 350px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 350px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 350px;
 }
 
 .html
@@ -37,13 +37,13 @@
 #page
 {
 	z-index: 1;
-	width: 361px;
-	min-height: 413px;
+	width: 334px;
+	min-height: 423px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFEFF;
-	padding: 80px 9px 77px 10px;
+	padding: 76px 7px 71px 9px;
 }
 
 #pu185-6
@@ -63,29 +63,26 @@
 #u212
 {
 	z-index: 27;
-	width: 353px;
-	min-height: 299px;
+	width: 334px;
+	min-height: 320px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 36px;
-	left: 8px;
+	margin-top: 34px;
 }
 
 #menuu190
 {
 	z-index: 8;
-	width: 361px;
-	left: -1px;
-	margin-top: 1px;
+	width: 333px;
 	position: relative;
 }
 
 #u198
 {
-	width: 119px;
+	width: 109px;
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
@@ -93,7 +90,7 @@
 
 #u199
 {
-	width: 119px;
+	width: 109px;
 	background-color: #C4C4C4;
 	padding-bottom: 17px;
 	position: relative;
@@ -105,18 +102,30 @@
 	margin: 0px;
 }
 
+#u202-4
+{
+	width: 109px;
+	min-height: 17px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
 #u205
 {
-	width: 119px;
+	width: 110px;
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
-	left: 121px;
+	left: 111px;
 }
 
 #u208
 {
-	width: 119px;
+	width: 110px;
 	background-color: #C4C4C4;
 	padding-bottom: 17px;
 	position: relative;
@@ -134,9 +143,9 @@
 	margin: 0px;
 }
 
-#u202-4,#u211-4
+#u211-4
 {
-	width: 119px;
+	width: 110px;
 	min-height: 17px;
 	color: #FFFFFF;
 	text-align: center;
@@ -148,16 +157,16 @@
 
 #u191
 {
-	width: 119px;
+	width: 110px;
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
-	left: 242px;
+	left: 223px;
 }
 
 #u192
 {
-	width: 119px;
+	width: 110px;
 	background-color: #C4C4C4;
 	padding-bottom: 17px;
 	position: relative;
@@ -171,7 +180,7 @@
 
 #u195-4
 {
-	width: 119px;
+	width: 110px;
 	min-height: 17px;
 	color: #FFFFFF;
 	text-align: center;
@@ -190,7 +199,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 350px;
 }
 
 #page .verticalspacer
