@@ -1,9 +1,9 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1427669767646">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1427670138364">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="3797908460" ref="index"/>
-    <file name="777.css" crc="3956252977" ref="777"/>
-    <file name="a320.css" crc="317311229" ref="a320"/>
+    <file name="777.css" crc="3878706002" ref="777"/>
+    <file name="a320.css" crc="472086029" ref="a320"/>
   </folder>
   <folder name="assets">
     <file name="monarch-fuel.xlsx" crc="3939541652" mt="1427376387000"/>
@@ -25,6 +25,6 @@
     <file name="pasted image 425x300.jpg" crc="373738589" ref="index:777:a320"/>
   </folder>
   <file name="index.html" crc="3843500747" mt="1427667218474" redirect="true"/>
-  <file name="777.html" crc="448882382" mt="1427669474400" redirect="true"/>
-  <file name="a320.html" crc="4291486264" mt="1427669751424" redirect="true"/>
+  <file name="777.html" crc="286793114" mt="1427670114708" redirect="true"/>
+  <file name="a320.html" crc="257198957" mt="1427670048547" redirect="true"/>
 </manifest>
