@@ -1,7 +1,7 @@
 .version._777 /* version checker */
 {
-	color: #00000F;
-	background-color: #B92B97;
+	color: #0000E3;
+	background-color: #7C8A4F;
 }
 
 @-ms-viewport
@@ -37,47 +37,58 @@
 #page
 {
 	z-index: 1;
-	width: 334px;
-	min-height: 423px;
+	width: 350px;
+	min-height: 499px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFEFF;
-	padding: 76px 7px 71px 9px;
+	padding-bottom: 71px;
 }
 
-#pu185-6
+#u228
 {
-	width: 0.01px;
+	z-index: 2;
+	width: 350px;
+	opacity: 0.13;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=13)";
+	filter: alpha(opacity=13);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 71px;
+}
+
+#u228_clip
+{
+	overflow: hidden;
+	width: 350px;
+	height: 451px;
+}
+
+#u228_img
+{
+	margin: -19px -240px -36px -128px;
 }
 
 #u185-6
 {
-	z-index: 2;
+	z-index: 4;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u212
-{
-	z-index: 27;
-	width: 334px;
-	min-height: 320px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 34px;
+	margin-top: 76px;
+	left: 9px;
 }
 
 #menuu190
 {
-	z-index: 8;
+	z-index: 10;
 	width: 333px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 489px;
+	left: 9px;
 }
 
 #u198
@@ -194,6 +205,20 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u212
+{
+	z-index: 29;
+	width: 335px;
+	min-height: 319px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+	left: 7px;
 }
 
 body
