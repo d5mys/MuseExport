@@ -1,7 +1,7 @@
 .version._777 /* version checker */
 {
-	color: #0000E3;
-	background-color: #7C8A4F;
+	color: #0000E2;
+	background-color: #D1D743;
 }
 
 @-ms-viewport
@@ -38,12 +38,23 @@
 {
 	z-index: 1;
 	width: 350px;
-	min-height: 499px;
+	min-height: 569.8037841791049px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFEFF;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	padding-top: 71px;
 	padding-bottom: 71px;
+}
+
+#pu228
+{
+	width: 0.01px;
 }
 
 #u228
@@ -55,7 +66,6 @@
 	filter: alpha(opacity=13);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 71px;
 }
 
 #u228_clip
@@ -77,18 +87,32 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 76px;
+	margin-top: 5px;
 	left: 9px;
+}
+
+#u212
+{
+	z-index: 10;
+	width: 335px;
+	min-height: 319px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 45px;
+	left: 7px;
 }
 
 #menuu190
 {
-	z-index: 10;
+	z-index: 11;
 	width: 333px;
+	margin-left: 7px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 489px;
-	left: 9px;
 }
 
 #u198
@@ -205,20 +229,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u212
-{
-	z-index: 29;
-	width: 335px;
-	min-height: 319px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 116px;
-	left: 7px;
 }
 
 body
