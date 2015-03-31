@@ -1,20 +1,21 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1427670138364">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1427822484875">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="3797908460" ref="index"/>
-    <file name="777.css" crc="3878706002" ref="777"/>
-    <file name="a320.css" crc="472086029" ref="a320"/>
+    <file name="index.css" crc="4105582709" ref="index"/>
+    <file name="777.css" crc="4039429115" ref="777"/>
+    <file name="a320.css" crc="15030338" ref="a320"/>
+    <file name="787.css" crc="4085380046" ref="787"/>
   </folder>
   <folder name="assets">
     <file name="monarch-fuel.xlsx" crc="3939541652" mt="1427376387000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:777:a320"/>
-    <file name="museutils.js" crc="212726984" ref="index:777:a320"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:777:a320:787"/>
+    <file name="museutils.js" crc="212726984" ref="index:777:a320:787"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="index:777:a320"/>
-    <file name="jquery.musemenu.js" crc="440295907" ref="777:a320"/>
-    <file name="html5shiv.js" crc="4241844378" ref="777:a320"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:777:a320:787"/>
+    <file name="jquery.musemenu.js" crc="440295907" ref="777:a320:787"/>
+    <file name="html5shiv.js" crc="4241844378" ref="777:a320:787"/>
   </folder>
   <folder name="images">
     <file name="u103-4.png" crc="155297929" ref="index"/>
@@ -23,8 +24,11 @@
     <file name="u185-6.png" crc="197568513" ref="777"/>
     <file name="u131-4.png" crc="492373670" ref="a320"/>
     <file name="pasted image 425x300.jpg" crc="373738589" ref="index:777:a320"/>
+    <file name="pasted image 273x185.jpg" crc="350165590" ref="index"/>
+    <file name="u261-6.png" crc="262999096" ref="787"/>
   </folder>
-  <file name="index.html" crc="3843500747" mt="1427667218474" redirect="true"/>
-  <file name="777.html" crc="286793114" mt="1427670114708" redirect="true"/>
-  <file name="a320.html" crc="257198957" mt="1427670048547" redirect="true"/>
+  <file name="index.html" crc="197875878" mt="1427822472608" redirect="true"/>
+  <file name="777.html" crc="510250381" mt="1427822306546" redirect="true"/>
+  <file name="a320.html" crc="4289407773" mt="1427822332062" redirect="true"/>
+  <file name="787.html" crc="4066512107" mt="1427822288717" redirect="true"/>
 </manifest>

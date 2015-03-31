@@ -1,7 +1,7 @@
-.version.a320 /* version checker */
+.version._787 /* version checker */
 {
-	color: #000000;
-	background-color: #E55842;
+	color: #0000F3;
+	background-color: #81F3CE;
 }
 
 @-ms-viewport
@@ -37,117 +37,82 @@
 #page
 {
 	z-index: 1;
-	width: 350px;
-	min-height: 570px;
-	background-image: none;
-	border-style: none;
-	border-color: #000000;
-	background-color: #FFFEFF;
+	width: 334px;
+	min-height: 485.94259973636827px;
+	padding: 13px 8px 71.05740026363173px;
 }
 
-#page_position_content
+#u261-6
 {
-	padding-top: 13px;
-	padding-bottom: 71px;
-}
-
-#u131-4
-{
-	z-index: 4;
+	z-index: 3;
 	display: block;
 	vertical-align: top;
-	margin-left: 8px;
 	position: relative;
 }
 
-#pu225
-{
-	width: 0.01px;
-	margin-top: 1px;
-}
-
-#u225
+#u259
 {
 	z-index: 2;
-	width: 350px;
-	opacity: 0.1;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
-	filter: alpha(opacity=10);
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u225_clip
-{
-	overflow: hidden;
-	width: 350px;
-	height: 428px;
-}
-
-#u225_img
-{
-	margin: -18px -218px -35px -113px;
-}
-
-#u134
-{
-	z-index: 8;
-	width: 336px;
-	min-height: 295px;
+	width: 333px;
+	min-height: 428px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 18px;
-	left: 7px;
 }
 
-#menuu163
+#menuu262
 {
 	z-index: 9;
-	width: 334px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #A7FF46;
+	width: 333px;
+	margin-top: 21px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 353px;
-	left: 7px;
 }
 
-#u164
+#u270
 {
-	width: 82px;
+	width: 81px;
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u167
+#u273
 {
-	width: 82px;
+	width: 81px;
 	background-color: #C4C4C4;
 	padding-bottom: 17px;
 	position: relative;
 }
 
-#u167:hover
+#u273:hover
 {
 	background-color: #999999;
 	margin: 0px;
 }
 
-#u171
+#u275-4
+{
+	width: 81px;
+	min-height: 17px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u284
 {
 	width: 82px;
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
-	left: 84px;
+	left: 83px;
 }
 
-#u172
+#u285
 {
 	width: 82px;
 	background-color: #C4C4C4;
@@ -155,7 +120,77 @@
 	position: relative;
 }
 
-#u175-4
+#u285:hover
+{
+	background-color: #999999;
+	margin: 0px;
+}
+
+#u277
+{
+	width: 82px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 167px;
+}
+
+#u280
+{
+	width: 82px;
+	background-color: #C4C4C4;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u280:hover
+{
+	background-color: #999999;
+	margin: 0px;
+}
+
+#u273:active,#u285:active,#u280:active
+{
+	background-color: #6B6B6B;
+	margin: 0px;
+}
+
+#u288-4,#u283-4
+{
+	width: 82px;
+	min-height: 17px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u263
+{
+	width: 82px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 251px;
+}
+
+#u266
+{
+	width: 82px;
+	background-color: #C4C4C4;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u266.MuseMenuActive
+{
+	background-color: #999999;
+	margin: 0px;
+}
+
+#u268-4
 {
 	width: 82px;
 	min-height: 17px;
@@ -166,70 +201,6 @@
 	margin-right: -10000px;
 	top: 8px;
 	left: 0px;
-}
-
-#u178
-{
-	width: 82px;
-	min-height: 34px;
-	position: relative;
-	margin-right: -10000px;
-	left: 168px;
-}
-
-#u181
-{
-	width: 82px;
-	background-color: #C4C4C4;
-	padding-bottom: 17px;
-	position: relative;
-}
-
-#u172.MuseMenuActive,#u181:hover
-{
-	background-color: #999999;
-	margin: 0px;
-}
-
-#u245
-{
-	width: 82px;
-	min-height: 34px;
-	position: relative;
-	margin-right: -10000px;
-	left: 252px;
-}
-
-#u248
-{
-	width: 82px;
-	background-color: #C4C4C4;
-	padding-bottom: 17px;
-	position: relative;
-}
-
-#u248:hover
-{
-	background-color: #999999;
-	margin: 0px;
-}
-
-#u167:active,#u181:active,#u248:active
-{
-	background-color: #6B6B6B;
-	margin: 0px;
-}
-
-#u170-4,#u183-4,#u250-4
-{
-	width: 82px;
-	min-height: 17px;
-	color: #FFFFFF;
-	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
 }
 
 .MenuItem /* unifiedNavBar */
